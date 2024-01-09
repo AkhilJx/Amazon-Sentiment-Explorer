@@ -8,4 +8,6 @@ The Amazon Reviews Polarity Dataset discloses eighteen years of customers' ratin
 Here, the model was trained on 10000 data from train.csv and 10000 data from test.csv. 
 2 vectorizers namely "CountVectorizer" and "TF-IDF Vectorizer" were used and 
 Also 3 Machine Learning Algorithms namely Logistic Regression, Random Forest and SVM were used and a comparision of the 3 is performed. 
-A Barplot was plotted with precision and accuracy of each algorithm for a better visual understanding of the performance of each algorithm.
+A Barplot was plotted with precision and accuracy of each algorithm for a better visual understanding of the performance of each algorithm and also a tabular represention of the final output is also shown.
+
+once after getting the required output, the ouput of each model is optimised by cross validation and gridsearchcv.
