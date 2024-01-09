@@ -1,5 +1,6 @@
 # Sentiment-Analysis on Amazon Product Review Dataset
-# upload some changes
+# This repo contains Sentiment Analysis with direct data from dataset, Sentiment Analysis with direct data from dataset with cross validation and gridsearchcv
+# Sentiment Analysis with data from dataset after cleaning with cross validation and gridsearchcv is under working
 Dataset: https://www.kaggle.com/datasets/thedevastator/amazon-product-reviews?select=train.csv
 
 The Amazon Reviews Polarity Dataset discloses eighteen years of customers' ratings and reviews from Amazon.com, offering an unparalleled trove of insight and knowledge. Drawing from the immense pool of over 35 million customer reviews, this dataset presents a broad spectrum of customer opinions on products they have bought or used. This invaluable data is a gold mine for improving products and services as it contains comprehensive information regarding customers' experiences with a product including ratings, titles, and plaintext content. At the same time, this dataset contains both customer-specific data along with product information which encourages deep analytics that could lead to great advances in providing tailored solutions for customers. Has your product been favored by the majority? Are there any aspects that need extra care? Use Amazon Reviews Polarity to gain deeper insights into what your customers want - explore now!
